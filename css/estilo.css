@@ -98,9 +98,6 @@ p {
     /* background: linear-gradient(#FFFFFF, #FFB300); */
 }
 
-.produtos{
-    /* background: linear-gradient( #FFB300, #fffb2c); */
-}
 
 .produtos {
     color: white;
@@ -160,4 +157,9 @@ footer p{
 .logo_footer{
     width: 15%;
     padding-left: 85%;
+}
+.underline-hover{
+    text-decoration: none;
+    color: white;
+
 }

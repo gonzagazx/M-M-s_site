@@ -1,0 +1,12 @@
+/* TITULO*/
+.produtost{
+    font-size: 40px;
+    font-weight: bold;
+    color: blueviolet;
+    font-family: cursive;
+    list-style: none;
+}
+
+.produtost li:before {
+    content:"🍫";
+}
